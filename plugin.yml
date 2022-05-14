@@ -1,0 +1,6 @@
+name: HNS
+author: Centralis
+version: 1.0
+main: me.centralis.hns.HNS
+    
+depend: [Netherboard]
